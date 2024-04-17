@@ -2,7 +2,7 @@
 
 num=$1
 
-if [ $num -gt 11]
+if [ $num -gt 11 ]
 then
     echo "given number $num is greater than 11"
 else

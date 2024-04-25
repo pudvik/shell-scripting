@@ -1,6 +1,6 @@
 #!/bin/bash
 
-file-path=$1
+
 SCRIPT_NAME=$(echo $0 | cut -d "." -f1)
 LOGFILE=/tmp/$SCRIPT_NAME-$TIMESTAMP.log
 
